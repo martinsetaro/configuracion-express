@@ -1,0 +1,19 @@
+{
+  "name": "probandoexpressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.4.13",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "postcss": "^8.4.20",
+    "pug": "^3.0.2"
+  }
+}
